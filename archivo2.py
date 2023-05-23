@@ -1,1 +1,4 @@
-print("archivo1")
+
+print("archivo2")
+print("archivo2")
+
